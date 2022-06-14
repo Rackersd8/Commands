@@ -21,7 +21,7 @@ then
 apt-get install nano;
 fi
 
-sleep 10s  
+sleep 25s  
 
 echo "Checking for system update...."
 
