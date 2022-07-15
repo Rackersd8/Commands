@@ -1,0 +1,9 @@
+#Mac hash extract command
+
+sudo dscl . read /Users/<user> AuthenticationAuthority 
+
+#Linux hash extract command
+
+sudo cat /etc/shadow
+
+#Windows hash extract command 
