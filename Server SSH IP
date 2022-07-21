@@ -1,5 +1,0 @@
-23.84.151.168
-
-#Server Copy Command
-
-scp /home/dylan/Desktop/mods/<mods> rackersd8@192.168.0.40:/home/rackersd8/BeamMP-Server/Resources
